@@ -1,0 +1,5 @@
+com/example/bootqap/movie/MovieService.class
+com/example/bootqap/movie/MovieController.class
+com/example/bootqap/movie/Movie.class
+com/example/bootqap/movie/MovieRepository.class
+com/example/bootqap/BootqapApplication.class
